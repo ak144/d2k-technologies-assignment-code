@@ -3,7 +3,7 @@
  Environment Setup:-(i)please install latest version of pycharm and jupyter notebook and run the code according to sequence.
  (ii)sqlite has been autmatically downloaded and ran in jupyter notebook itself
 
-Data Analysis:-1.below mentioned assigned questions has been answered in sequence and results can be seen when we run the .ipynb code in specified environment.
+Data Analysis:-1.below mentioned assigned questions has been answered in sequence and results can be seen when we run the .ipynb code in specified environment.<br/>
 python questions :-<br/>
 Write a script that downloads CSV files from the Year 2019.
 Ensure the script can handle network errors and retries.<br/>
@@ -15,7 +15,7 @@ ANS:-respective new columns namely trip duration and average speed has been calu
 3.Aggregate data to calculate total trips and average fare per day.<br/>
 ans:-total trips and average fare per is also calculated and code,formula and result has been attached in the file.<br/>
 
-sqlite quiestions :-
+sqlite questions :-
 Design and implement a schema suitable for querying trip metrics.<br/>
 Use SQL to load data into the database efficiently.<br/>
 ans :-The sqlite has been impoted and table has been created and rows have been automatically inserted using  impoting yellow trip data file in csv format.<br/>
