@@ -1,7 +1,7 @@
 # Project Overview:This project contains anlaysis  of  one data file named yellow trip data done  in python and sqlite.
 
- Environment Setup:-(i)please install latest version of pycharm and jupyter notebook and run the code according to sequence.
- (ii)sqlite has been autmatically downloaded and ran in jupyter notebook itself
+ Environment Setup:-(i)please install latest version of pycharm and jupyter notebook and run the code according to sequence.<br/>
+ (ii)sqlite has been autmatically downloaded and ran in jupyter notebook itself<br/>
 
 Data Analysis:-1.below mentioned assigned questions has been answered in sequence and results can be seen when we run the .ipynb code in specified environment.<br/>
 python questions :-<br/>
